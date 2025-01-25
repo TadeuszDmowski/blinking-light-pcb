@@ -1,2 +1,8 @@
-# blinking-light-pcb-project-
-Projekt akademicki obejmujący zaprojektowanie i montaż migającego światła, w tym lutowanie PCB, projektowanie obudowy w Fusion 360 oraz integrację komponentów elektronicznych i mechanicznych.
+# Blinking Light PCB Project  
+
+## Opis projektu  
+Ten projekt został zrealizowany w ramach zajęć z technologii wytwarzania. Celem było zaprojektowanie i zmontowanie prostego układu elektronicznego migającego światła.  
+Projekt obejmował:  
+- Lutowanie elementów elektronicznych na płytce PCB,  
+- Zaprojektowanie i wydruk 3D obudowy w Fusion 360,  
+- Integrację mechaniczno-elektroniczną.  
